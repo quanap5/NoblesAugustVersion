@@ -2,11 +2,11 @@
 
 This is source code for application that used for dating between social users
 Some demo
-Login UI:
+- Login UI:
 <img src="https://github.com/quanap5/NoblesAugustVersion/blob/master/demo/demo_login.PNG">
-Home UI:
+- Home UI:
 <img src="https://github.com/quanap5/NoblesAugustVersion/blob/master/demo/demo_home.PNG">
-Myprofile UI:
+- Myprofile UI:
 <img src="https://github.com/quanap5/NoblesAugustVersion/blob/master/demo/demo_my.PNG">
 
 
