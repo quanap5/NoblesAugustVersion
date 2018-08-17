@@ -32,7 +32,7 @@ This is source code for application that used for dating between social users
 - Take a rest while waiting
 
 ### Step3: Run with simulator on the web
-- ionic serve -lab
+- ionic serve
 
 ### Step4: Run with real device
 - ionic cordova platform rm ios
