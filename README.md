@@ -18,7 +18,7 @@ Some demo
 - Angular
 - npm tool
 - Terminal
-- IDE or text editor [Visual Studio code] (https://code.visualstudio.com/)
+- IDE or text editor [Visual Studio code](https://code.visualstudio.com).
 
 ----
 ## Hoiw to clone and run demo on simulator or real device
