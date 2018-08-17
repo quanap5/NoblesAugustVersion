@@ -1,7 +1,7 @@
 # Dating application with hybrid approach
 
 This is source code for application that used for dating between social users
-Some demo
+
 - Login UI:
 <img src="https://github.com/quanap5/NoblesAugustVersion/blob/master/demo/demo_login.PNG">
 - Home UI:
